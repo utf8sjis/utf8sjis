@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm utf8sjis
-I'm interested in web development (Nuxt.js⛰️, Flask🌶️, etc.) and natural language processing🤗!
+
+I'm interested in web development🌐 (Python, Ruby, JavaScript), search systems🔍 (Elasticsearch, Solr) and NLP🤗!
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=utf8sjis&hide=issues,contribs&show_icons=true&line_height=30)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utf8sjis&layout=compact)
